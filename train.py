@@ -1,6 +1,6 @@
 # get the train data...
 
-from feast import FeatureStore
+from feast import FeatureStore, ValueType
 import pandas as pd
 from datetime import datetime
 
